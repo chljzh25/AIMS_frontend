@@ -1,0 +1,1 @@
+import{C as e,b as t,j as n,n as r}from"./index-CA4uByz4.js";var i={},a={class:`p-4`};function o(r,i){return n(),e(`div`,a,[...i[0]||=[t(`h1`,{class:`text-2xl font-bold`},`欢迎来到江苏哈哈哈哈智能招聘系统`,-1)]])}var s=r(i,[[`render`,o]]);export{s as default};

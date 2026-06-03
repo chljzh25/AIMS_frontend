@@ -1,0 +1,1 @@
+import"./user-pYNXzNOq.js";import{t as e}from"./request-BdxmSTro.js";function t(t){return e.post(`/user/login`,t)}function n(t){return e.post(`/user/register`,t)}var r=t=>e.post(`/user/invite`,t),i=t=>e.get(`/user/list`,t),a=()=>e.get(`/user/department/list`),o=t=>e.post(`/user/assign/department`,t),s=()=>e.get(`/user/hr/list`);export{r as a,i,a as n,t as o,s as r,n as s,o as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./request-BdxmSTro.js";var t=function(e){return e.DaZhuan=`大专`,e.BenKe=`本科`,e.ShuoShi=`硕士`,e.BoShi=`博士`,e.WeiZhi=`未知`,e}({}),n=t=>e.post(`/position/create`,t),r=t=>e.get(`/position/list`,{params:t}),i=t=>e.delete(`/position/delete/${t}`);export{r as i,n,i as r,t};
